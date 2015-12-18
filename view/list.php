@@ -5,6 +5,7 @@
  ?>
 <div class="container">
 	<h3>Список всех записей в таблице</h3>
+		<h4> fail  </h4>
 		<ol>
 			<?php foreach($rows as $row): ?>
 				<li class="well well-sm">

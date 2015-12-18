@@ -12,6 +12,8 @@
 	
 </head>
 <body>
+<h1> layout.php
+</h1>
 	<?php echo $content; ?>
 
 </body>
